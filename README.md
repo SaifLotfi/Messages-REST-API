@@ -1,2 +1,2 @@
-# Messages-REST-API
+# Posts-REST-API
 Simple REST API Application
